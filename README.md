@@ -1,4 +1,4 @@
-# rabbitmq-playground
+# Rabbitmq Playground
 Trying to use Rabbit with Go
 
 ### Tutorials
